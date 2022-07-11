@@ -13,4 +13,5 @@ elif day == 6:
 elif day == 7:
     print(f'{day} - ДА, это Воскресенье')
 else:
-    print(f'{day} - НЕТ, ещё не выходной')       
+    print(f'{day} - НЕТ, ещё не выходной')   
+  
