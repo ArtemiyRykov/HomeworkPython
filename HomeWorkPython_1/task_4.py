@@ -11,4 +11,4 @@ elif quarter == 2:
 elif quarter == 3:
     print('x < 0 и y < 0')
 elif quarter == 4:
-    print('x > 0 и y < 0')           
+    print('x > 0 и y < 0')
