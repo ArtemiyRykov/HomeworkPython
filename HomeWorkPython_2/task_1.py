@@ -7,6 +7,6 @@ number = input('Введите число = ')
 suma = 0
 for item in number:
     if item.isdigit():
-        print(item)
+        # print(item)
         suma += int(item)
 print(suma)    
